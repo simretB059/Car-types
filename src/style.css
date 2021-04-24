@@ -1,0 +1,83 @@
+body {
+      display: block;
+      margin: 40px 141px;
+      background-color: hsl(0, 0%, 95%);
+    }
+    h1,
+    h2,
+    h3 {
+      color: hsla(0, 0%, 100%, 0.75);
+      margin: 0 20px;
+      font-family: "Big Shoulders Display", cursive;
+    }
+
+    p {
+      display: block;
+      margin: 0 0 20px 20px;
+      text-align: justify;
+      font-size: 15px;
+      color: hsla(0, 50%, 98%, 0.75);
+      line-height: 2;
+      padding: 3px;
+    }
+    .my-container {
+      padding: 20px 21px;
+    }
+    .my-col1 {
+      background-color: hsl(31, 77%, 52%);
+      max-width: 1440px;
+      max-height: 1640px;
+      display: block;
+    }
+    .my-col2 {
+      background-color: hsl(184, 100%, 22%);
+      max-width: 1440px;
+      max-height: 1640px;
+      display: block;
+    }
+    .my-col3 {
+      background-color: hsl(179, 100%, 13%);
+      max-width: 1440px;
+      max-height: 1640px;
+      display: block;
+    }
+    .button1 {
+      background-color: hsl(0, 0%, 95%);
+      border-radius: 20px;
+      color: hsl(31, 77%, 52%);
+      text-align: center;
+      padding: 4px;
+      display: block;
+      margin: 20px 0 0 0;
+    }
+    .button2 {
+      background-color: hsl(0, 0%, 95%);
+      border-radius: 20px;
+      text-align: center;
+      color: hsl(184, 100%, 22%);
+      padding: 4px;
+      margin: 20px 0 0 0;
+      display: block;
+    }
+    .button3 {
+      background-color: hsl(0, 0%, 95%);
+      border-radius: 20px;
+      text-align: center;
+      color: hsl(179, 100%, 13%);
+      padding: 4px;
+      margin: 20px 0 0 0;
+      display: block;
+    }
+    .attribution {
+      font-size: 11px;
+      text-align: center;
+      margin: 40px 0;
+    }
+
+    .attribution a {
+      color: hsl(228, 53%, 52%);
+      margin: 40px 0;
+    }
+    img {
+      margin: 20px;
+    
